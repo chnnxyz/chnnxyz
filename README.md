@@ -1,4 +1,4 @@
-<h1 align='center'> Hi I'm S. Ruiz de Aguirre</h1>
+<h1 align='center'> Hi, I'm S. Ruiz de Aguirre</h1>
 
 <h3 align='center'>Artificial Intelligence enthusiast and abstract mathematics nerd.</h3>
 
