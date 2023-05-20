@@ -3,8 +3,8 @@
 <h3 align='center'>Artificial Intelligence enthusiast and abstract mathematics nerd.</h3>
 
 - 🔭 I’m currently working on implementing custom artificial intelligence solutions in the manufacturing industry
-- 🌱 I’m currently learning Rust and algorithms/data structures
-- 🤔 I’m looking for help with pointers lol
+- 🌱 I’m currently learning Rust, Metaheuristics and Fuzzy Logic
+- 🤔 I’m looking for help with Fuzzy Neural Networks
 - 💬 Ask me about Data Science, Machine Learning, Artificial Intelligence and Statistics
 - 📫 How to reach me: **s@chnn.xyz**
 - 😄 Pronouns: They/She
