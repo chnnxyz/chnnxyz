@@ -2,10 +2,10 @@
 
 <h3 align='center'>Artificial Intelligence enthusiast and abstract mathematics nerd.</h3>
 
-- 🔭 I’m currently working on implementing custom artificial intelligence solutions in the manufacturing industry
-- 🌱 I’m currently learning Rust, Metaheuristics and Fuzzy Logic
-- 🤔 I’m looking for help with Fuzzy Neural Networks
-- 💬 Ask me about Data Science, Machine Learning, Artificial Intelligence and Statistics
+- 🔭 I’m currently working on developing custom low-code artificial intelligence solutions for optimizing processes in the manufacturing industry
+- 🌱 I’m currently learning Rust, Metaheuristics, Fuzzy Logic and Neural Network Architecture Optimization
+- 🤔 I’m looking for help with time management and people skills
+- 💬 Ask me about Data Science, Machine Learning, Artificial Intelligence, Algorithms and Statistics
 - 📫 How to reach me: **s@chnn.xyz**
 - 😄 Pronouns: They/She
 - ⚡ Fun fact: I'm also a DJ in my free time
